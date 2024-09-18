@@ -13,7 +13,7 @@ if (test == "test1") {
 
 if (test == "test2") print("Test2 again");
 
-![Alt text](img\ifelse.png)
+![Alt text](img/ifelse.png)
 
 
 
@@ -30,7 +30,7 @@ if (test == "true") {
 }
 }
 
-![Alt text](img\if.png)
+![Alt text](img/if.png)
 
 
 ## No.3
@@ -47,7 +47,7 @@ void main() {
 }
 }
 
-![Alt text](img\while.png)
+![Alt text](img/while.png)
 
 ## No.4
 
@@ -60,7 +60,7 @@ do {
   counter++;
 } while (counter < 77);
 
-![Alt text](img\dowhile.png)
+![Alt text](img/dowhile.png)
 
 
 ## No.5 
@@ -72,7 +72,7 @@ void main() {
   print(index);
 }
 
-![Alt text](img\forloop.png)
+![Alt text](img/forloop.png)
 
 
 ## No.6
@@ -90,9 +90,9 @@ void main() {
   }
 }
 
-![Alt text](img\forbreak.png)
+![Alt text](img/forbreak.png)
 
 
 # TUGAS
 
-![Alt text](img\Week2.png)
+![Alt text](img/Week2.png)
